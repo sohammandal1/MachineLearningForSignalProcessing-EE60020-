@@ -8,7 +8,7 @@ This repository contains all the materials I used during the course **Machine Le
 
 The purpose of this repository is to serve as a helpful resource for:  
 - Students planning to take this course in future semesters.  
-- Enthusiasts looking to explore **Machine Learning in Signal Processing**.  
+- Enthusiasts looking to explore **Machine Learning**.  
 
 Feel free to explore, learn, and contribute! 🚀  
 
